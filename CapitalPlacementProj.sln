@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalPlacementProj", "CapitalPlacementProj.csproj", "{FD37E28F-AFCD-4B39-ACDF-13EA7C724E1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalPlacementProjTests", "..\CapitalPlacementProjTests\CapitalPlacementProjTests.csproj", "{330E801E-F4F6-4193-838E-EBEF6F857D2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FD37E28F-AFCD-4B39-ACDF-13EA7C724E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD37E28F-AFCD-4B39-ACDF-13EA7C724E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD37E28F-AFCD-4B39-ACDF-13EA7C724E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{330E801E-F4F6-4193-838E-EBEF6F857D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330E801E-F4F6-4193-838E-EBEF6F857D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330E801E-F4F6-4193-838E-EBEF6F857D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330E801E-F4F6-4193-838E-EBEF6F857D2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
